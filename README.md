@@ -6,5 +6,5 @@ Use MySQL, Jsoup, HTML, JavaScript Regular Expression to realize a menu recommen
           Here is the recommendations we found for you:
             Chicken Pakora --------- $ 9.55  from   Bombay Garden;
             Chicken soup with bread ------------- $ 11.29  from WestPalace;
-            .....
+            ......
     )
